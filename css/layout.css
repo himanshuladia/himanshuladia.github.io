@@ -421,7 +421,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #000000;
 }
 
 /* Portfolio Content */
@@ -683,13 +683,13 @@ call-to-action .button {
 #testimonials blockquote p {
    font-family: 'librebaskerville-italic', serif;
    padding: 0;
-   font-size: 24px;
+   font-size: 22px;
    line-height: 48px;
    color: #fff
 }
 #testimonials blockquote cite {
    display: block;
-   font-size: 12px;
+   font-size: 18px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
@@ -825,6 +825,7 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: #FFFFFF;
 }
 #contact .header-col { padding-top: 6px; }
 
